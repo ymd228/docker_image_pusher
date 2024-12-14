@@ -1,1 +1,1 @@
-paulczar/omgwtfssl:latest
+mysql:5.7.44
