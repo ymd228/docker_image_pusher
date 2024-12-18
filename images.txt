@@ -1,3 +1,1 @@
-rancher/mirrored-pause:3.6
-rancher/mirrored-pause:3.1
-rancher/klipper-lb:v0.2.0
+rancher/rke-tools:v0.1.78
