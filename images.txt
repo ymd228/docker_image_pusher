@@ -1,1 +1,1 @@
-rancher/redis:5.0.10-alpine3.12
+library/redis:5.0.10-alpine3.12
