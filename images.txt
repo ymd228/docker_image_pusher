@@ -1,1 +1,1 @@
-rancher/coredns-coredns:1.8.3
+dify-api:0.15.0
