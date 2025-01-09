@@ -1,1 +1,3 @@
-dify-api:0.15.0
+langgenius/dify-api:main
+langgenius/dify-web:main
+langgenius/dify-sandbox:f40de1f6bc5f87d0e847cbf52076280bf61c05d5
