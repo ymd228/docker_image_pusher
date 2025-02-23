@@ -1,2 +1,3 @@
-langgenius/dify-api:main
-langgenius/dify-web:main
+langgenius/dify-api:1.0.0
+langgenius/dify-web:1.0.0
+langgenius/dify-sandbox:0.2.10
