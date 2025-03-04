@@ -1,1 +1,1 @@
-bitsensor/elastalert:2.0.1
+jertel/elastalert2:2.23.0
