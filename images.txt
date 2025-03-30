@@ -1,1 +1,1 @@
-jertel/elastalert2:2.23.0
+rancher/mirrored-coredns-coredns:1.12.0
