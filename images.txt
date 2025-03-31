@@ -1,1 +1,1 @@
-bitnami/minio:2025.3.12-debian-12-r2
+bitnami/os-shell:12-debian-12-r40
