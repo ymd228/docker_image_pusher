@@ -1,3 +1,1 @@
-langgenius/dify-api:release-1.1.3-fix1
-langgenius/dify-web:release-1.1.3-fix1
-langgenius/dify-sandbox:0.2.11
+redislabs/redisinsight:latest
