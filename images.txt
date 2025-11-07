@@ -1,6 +1,7 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+rancher/coreos-kube-state-metrics:v1.9.7
+rancher/prom-node-exporter:v1.0.1
+rancher/grafana-grafana:7.1.5
+rancher/istio-kubectl:1.5.10
+rancher/coreos-prometheus-operator:v0.39.0
+rancher/mirrored-library-nginx:1.19.9-alpine
+rancher/prometheus-auth:v0.2.1
